@@ -1,5 +1,5 @@
 # Project: Bird Eye
-# Author: Nishant Giri (2028125)
+# Author: Nishant Giri
 
 import re
 import streamlit as st
